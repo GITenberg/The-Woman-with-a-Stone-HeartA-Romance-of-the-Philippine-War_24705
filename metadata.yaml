@@ -1,0 +1,28 @@
+_repo: The-Woman-with-a-Stone-HeartA-Romance-of-the-Philippine-War_24705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coursey, O. W. (Oscar William)
+    alias: Coursey, Oscar William
+    birthdate: 1873
+    gutenberg_agent_id: '26683'
+    url: http://www.gutenberg.org/2009/agents/26683
+description: ''
+gutenberg_issued: '2008-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- Revolution, 1896-1898 -- Fiction'
+- !lcc 'PS'
+title: 'The Woman with a Stone Heart
+
+  A Romance of the Philippine War'
+url: http://www.gutenberg.org/ebooks/24705
